@@ -6,17 +6,39 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assests/style.css">
 
     <title>Quiz Game</title>
 
 </head>
 
     <body>
-    
-        <button id = "highscore" type = "button"></button>
+        <!-- Clickable text to view highscores -->
+        <a id = "highscore" href="scores.html">Click Here To View Highscores</a>
 
-        <div id = "timer" style= "position: absolute; top: 0; right: 0; width: 100px; text-align: right; font-weight: bold;"></div>
+        <!-- Creates box for quiz -->
+        <div id = "wrapper">
+
+            <!-- Div for timer -->
+            <div id = "timer"></div>
+
+            <!-- Inital HTML which will be replaced, also contains ul for list of possible answers and button to start quiz -->
+            <div id="questions">
+                <h1>Coding Quiz Challenge</h1>
+                <p>Try to answer the following code-related questions within the time limit. Keep in mind that incorrect
+                    answers
+                    will penalize your score/time by ten seconds!</p>
+                <ul id="choicesList"></ul>
+                <button id="startTimer">Start Quiz</button>
+            </div>
+
+        </div>
+
+
+
+
+
+
 
         <script src = "script.js"></script>
 
