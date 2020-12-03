@@ -24,7 +24,7 @@ body {
     height: 500px;
 }
 #startTimer {
-    background-color: purple;
+    background-color: darkblue;
     margin-left: 33%;
     padding: 15px 32px;
     font-size: 20px;
@@ -39,7 +39,7 @@ body {
 }
 
 #back {
-    background-color: purple;
+    background-color: darkblue;
     position: relative;
     padding: 10px;
     font-size: 20px;
@@ -52,7 +52,7 @@ body {
 }
 
 #reset {
-    background-color: purple;
+    background-color: darkblue;
     position: relative;
     padding: 10px;
     font-size: 20px;
@@ -72,7 +72,7 @@ textarea {
 }
 
 #Submit {
-    background-color: purple;
+    background-color: darkblue;
     margin-left: 33%;
     padding: 15px 32px;
     font-size: 20px;
@@ -93,7 +93,7 @@ h1 {
 }
 
 li {
-    background-color: purple;
+    background-color: darkblue;
     margin-top: 10px;
     padding: 5px 15px;
     width: 80%;
