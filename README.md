@@ -1,6 +1,6 @@
 <h1>Quiz Game With High Score</h1>
 
-<h2>This repository includes a code related quiz with 5 questions, a timer, and a highscore page.</h2>
+<h2>This repository includes a code related quiz with 5 questions, a timer, and a button to view the highscore page.</h2>
 <br>
 
 <p>The rules are simple:<br> 
@@ -12,7 +12,8 @@ Your score is based on how quickly and correctly you answer each, and is stored 
 
 <p>An example of the game is shown below:<p>
 
-![Quiz Game](https://user-images.githubusercontent.com/70537665/101084796-56d89100-3563-11eb-8fe6-8ad6a8dcaed6.gif)
+![Quiz Game](https://user-images.githubusercontent.com/70537665/101086837-4aa20300-3566-11eb-9730-21369edd641f.gif)
+
 
 <br>
 <a href="https://al0harussia.github.io/Quiz-Game-With-High-Score/">Link To Quiz</a>
