@@ -19,7 +19,7 @@ Your score is based on how quickly and correctly you answer each, and is stored 
 <a href="https://al0harussia.github.io/Quiz-Game-With-High-Score/">Link To Quiz</a>
 
 <br>
-```
+```bash
 Copyright 2021 Kyle Gates
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
