@@ -16,7 +16,7 @@ Your score is based on how quickly and correctly you answer each, and is stored 
 
 
 <br>
-<a href="https://al0harussia.github.io/Quiz-Game-With-High-Score/">Link To Quiz</a>
+<a href="https://gateskyle.github.io/Quiz-Game-With-High-Score/">Link To Quiz</a>
 
 <br>
 <br>
